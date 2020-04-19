@@ -121,7 +121,7 @@ footer {
 	position: absolute;
 	bottom: 0;
 	line-height: 40px;
-	width: 1440px;
+	width: 100%;
 	margin: 0;
 	line-height: 40px;
 }
@@ -146,7 +146,7 @@ footer {
 }
 
 .br_cntnr a:nth-child(5) {
-	padding-left: 855px;
+	padding-left: 1000px;
 }
 
 .br_cntnr a:hover {
